@@ -15,7 +15,7 @@ Quickly send HTTP requests (`GET`, `POST`, `PUT`, `DELETE`, and more) and instan
 ---
 
 ##  Screenshot  
-![API Tester Screenshot](screenshot.png)
+![API Tester Screenshot](1.png)
 
 ---
 
