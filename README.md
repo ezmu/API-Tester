@@ -10,7 +10,7 @@ Quickly send HTTP requests (`GET`, `POST`, `PUT`, `DELETE`, and more) and instan
 ---
 
 ## Live Demo  
-🔗 **[API Tester Online](https://ezmu.github.io/API-Tester/)**
+ **[API Tester Online](https://ezmu.github.io/API-Tester/)**
 
 ---
 
@@ -19,11 +19,15 @@ Quickly send HTTP requests (`GET`, `POST`, `PUT`, `DELETE`, and more) and instan
 
 ---
 
-## ✨ Features
-- ✅ Works directly in the browser — no setup needed  
-- ✅ Supports all HTTP methods  
-- ✅ Custom headers & body support  
-- ✅ JSON viewer for easy response reading  
+## Features
+- Works directly in the browser — no setup needed  
+- Supports all HTTP methods  
+- Custom headers & body support  
+- JSON viewer for easy response reading  
 
 
+## Author
 
+EzEldeen A. Y. Mushtaha 
+GitHub: https://github.com/ezmu
+LinkedIn: https://www.linkedin.com/in/ezmush/
