@@ -1,10 +1,29 @@
 # API Tester
 
-A lightweight, browser-based API testing tool.  
-Easily send HTTP requests (GET, POST, PUT, DELETE, etc.) and view responses without installing extra software.
-[https://ezmu.github.io/API-Tester/](https://ezmu.github.io/API-Tester/)
-![API Tester Screenshot](https://raw.githubusercontent.com/ezmu/API-Tester/main/1.png)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?logo=github)](https://ezmu.github.io/API-Tester/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
 
+A **lightweight, browser-based API testing tool** — no installation required.  
+Quickly send HTTP requests (`GET`, `POST`, `PUT`, `DELETE`, and more) and instantly view responses.
+
+---
+
+## Live Demo  
+🔗 **[API Tester Online](https://ezmu.github.io/API-Tester/)**
+
+---
+
+##  Screenshot  
+![API Tester Screenshot](screenshot.png)
+
+---
+
+## ✨ Features
+- ✅ Works directly in the browser — no setup needed  
+- ✅ Supports all HTTP methods  
+- ✅ Custom headers & body support  
+- ✅ JSON viewer for easy response reading  
 
 
 
